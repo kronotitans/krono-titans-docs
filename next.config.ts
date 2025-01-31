@@ -1,6 +1,12 @@
-const withNextra = require("nextra")({
+import nextra from "nextra";
+
+/** @type {import('next').NextConfig} */
+const withNextra = nextra({
   theme: "nextra-theme-docs",
   themeConfig: "./theme.config.tsx",
+  defaultShowCopyCode: true,
 });
 
-module.exports = withNextra();
+export default withNextra({
+  images: { unoptimized: true },
+});

@@ -1,6 +1,5 @@
 ---
 icon: hand-wave
-cover: https://gitbookio.github.io/onboarding-template-images/header.png
 coverY: 0
 layout:
   cover:
@@ -32,5 +31,4 @@ The platform leverages blockchain technology to provide transparency, security, 
 
 The motto behind KTN is simple and straightforward:
 
-> Secure. Futuristic. Limitless
-
+> Secure. Futuristic. Limitless.

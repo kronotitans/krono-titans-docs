@@ -8,7 +8,7 @@ const config: DocsThemeConfig = {
   },
   docsRepositoryBase: "https://github.com/kronotitans/krono-titans-docs",
   footer: {
-    text: "Krono Titans | KTN",
+    content: "Krono Titans | KTN",
   },
 };
 

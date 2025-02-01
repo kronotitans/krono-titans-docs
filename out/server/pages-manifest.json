@@ -1,0 +1,12 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/": "pages/index.html",
+  "/game-concept": "pages/game-concept.html",
+  "/official-channels": "pages/official-channels.html",
+  "/legal-disclaimer": "pages/legal-disclaimer.html",
+  "/roadmap": "pages/roadmap.html",
+  "/tokenomics": "pages/tokenomics.html",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
+}
